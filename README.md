@@ -1,3 +1,3 @@
 # examenEEDgit
 
-# Aquí debes pner tu nombre y apellidos: 
+# Aquí debes poner tu nombre y apellidos: 
